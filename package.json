@@ -1,0 +1,23 @@
+{
+  "name": "@cehlers/types-github-api",
+  "version": "0.0.1",
+  "description": "github-api type definitions",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -d",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "api",
+    "types",
+    "typescript",
+    "definition",
+    "definitions"
+  ],
+  "author": "Christoph Ehlers <Christoph.Ehlers1988@gmx.de>",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
+}
